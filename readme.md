@@ -59,4 +59,9 @@ rbooklib/
 ## Observações
 
 - O foco dos testes é a camada **LibraryService** (domínio), conforme a atividade.
-- A UI de console é apenas ilustrativa.
+- A UI de console também está funcional. Para executar rode o comando abaixo no terminal:
+
+
+```bash
+npm start
+```
