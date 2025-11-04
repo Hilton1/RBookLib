@@ -65,3 +65,9 @@ rbooklib/
 ```bash
 npm start
 ```
+
+## Equipe
+- José Hilton
+- Eduardo Augusto
+- Wyddenberg Thallys
+- João Paulo
